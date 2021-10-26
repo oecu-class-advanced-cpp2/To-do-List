@@ -1,3 +1,5 @@
+@import url(https://fonts.google.com/specimen/Zen+Kurenaido);
+body{font-family: 'Zen+Kurenaido';}
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +10,7 @@ h1 {
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
 label {
