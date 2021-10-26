@@ -1,4 +1,5 @@
-
+@import url(https://fonts.google.com/specimen/Zen+Kurenaido);
+body{font-family: 'Zen+Kurenaido';}
 * {
     margin: 0;
     padding: 0;
